@@ -1,2 +1,2 @@
-# Intro-to-Python-Programming
+# Intro-to-Programming-Python
 CS1110
